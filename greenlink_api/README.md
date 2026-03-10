@@ -54,3 +54,8 @@ Muhammad Rizki Fahrezi_187241075
 
 ## Create Transaksi
 <img width="1919" height="1113" alt="image" src="https://github.com/user-attachments/assets/3f968738-88db-48a3-ae43-d87b45595af1" />
+
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/ad560887-c101-44e1-8d55-83be8728d092" />
+
+## Read Transaksi
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/02e5ac76-9cec-4396-a3b4-64799912e358" />
